@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5ff&height=240&section=header&text=Omar%20Ridhwan%20Navid&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%E2%9A%A1%20Building%20intelligent%20digital%20experiences&descSize=20&descAlignY=60&descColor=00f5ff" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=%3E+initializing+navid.ai+...;%3E+Software+Developer+%F0%9F%92%BB;%3E+IT+Student+%40+Politeknik+Caltex+Riau;%3E+3D+Graphics+%2B+AI+Enthusiast+%F0%9F%A4%96;%3E+status%3A+learning%2C+building%2C+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=IT+Student+%40+Politeknik+Caltex+Riau;Web+Developer;AI+Enthusiast+%F0%9F%A4%96;%3E+Status+%3A+learning%2C+building%2C+shipping+%F0%9F%9A%80;Hobbies+%3A+running%F0%9F%8F%83%2C+cycling%F0%9F%9A%B4%E2%80%8D%E2%99%82%EF%B8%8F%2C+swimming%F0%9F%8F%8A%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)" alt="Typing SVG" />
 </a>
 
 <p><i>"Turning algorithms and creative logic into seamless digital experiences."</i></p>
