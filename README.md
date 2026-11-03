@@ -45,4 +45,7 @@ I am an Information Technology and Informatics Engineering student at **Politekn
   <a href="https://linkedin.com/in/OmarRidhwanNavid">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.netacad.com/profile">
+    <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  </a>
 </p>
