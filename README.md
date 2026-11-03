@@ -13,7 +13,6 @@ I am an Information Technology and Informatics Engineering student at Politeknik
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/bitcoin-#F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 📫 **Let's connect and build something awesome!**
 
