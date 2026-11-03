@@ -90,14 +90,29 @@ flowchart LR
 | 🌳 Procedurally generate 3D basketball courts & calisthenics parks | 🏋️‍♂️ Keep a weekly push/pull strength & bodyweight routine |
 | 📊 Manage class finance tracking, ledgers & transaction verification | 🚴‍♂️ Stay consistent with outdoor cycling cross-training |
 
-## 🐍 Contribution Snake
+<br/>
+
+## 📊 System Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NavidOmar-437&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=a855f7&text_color=ffffff" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidOmar-437&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&text_color=ffffff" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=NavidOmar-437&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=ff2d95&currStreakLabel=00f5ff" alt="streak" />
+
+</div>
+
+<br/>
+
+## 👾 Contribution Pac-Man
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NavidOmar-437/NavidOmar-437/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NavidOmar-437/NavidOmar-437/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/NavidOmar-437/NavidOmar-437/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NavidOmar-437/NavidOmar-437/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NavidOmar-437/NavidOmar-437/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph animation" src="https://raw.githubusercontent.com/NavidOmar-437/NavidOmar-437/output/pacman-contribution-graph-dark.svg" />
 </picture>
 
 </div>
