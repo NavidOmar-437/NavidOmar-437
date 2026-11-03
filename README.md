@@ -8,8 +8,20 @@ I am an Information Technology and Informatics Engineering student at Politeknik
 * ⚡ **Fun fact:** When I'm away from the keyboard, I'm usually training for my next half-marathon, cycling, or following Formula 1! 🏎️
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Java, Python
-* **Concepts:** OOP, Data Structures & Algorithms, Linear Algebra
-* **Tools:** Git, Blender 3.6, Google Sheets (for project & financial tracking)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
 📫 **Let's connect and build something awesome!**
+
+---
+
+<!-- KODE KARTU STATISTIK DITARUH DI SINI -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NavidOmar-437&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidOmar-437&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
