@@ -25,7 +25,7 @@ class Navid:
         self.role       = "Software Developer & IT Student"
         self.university = "Politeknik Caltex Riau (PCR) 🇮🇩"
         self.interests  = ["Software Engineering", "Interactive UI", "Procedural 3D", "AI"]
-        self.fuel       = ["Running 🏃‍♂️", "Cycling 🚴‍♂️", "Formula 1 🏎️"]
+        self.fuel       = ["Running 🏃‍♂️", "Cycling 🚴‍♂️", "Swimming 🏊‍♂️"]
 
     def mission(self):
         return "Turn algorithms into seamless digital experiences."
