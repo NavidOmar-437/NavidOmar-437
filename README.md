@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm Navid! 👋</h1>
-  <h3>Software Developer | IT Student @ PCR | 3D Enthusiast</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=60&lines=Hi+there,+I'm+Navid!+%F0%9F%91%8B;Software+Developer;IT+Student+%40+PCR;3D+Graphics+Enthusiast" alt="Typing SVG" />
+  </a>
   <p><i>"Turning algorithms and creative logic into seamless digital experiences."</i></p>
 </div>
 
