@@ -17,11 +17,3 @@ I am an Information Technology and Informatics Engineering student at Politeknik
 📫 **Let's connect and build something awesome!**
 
 ---
-
-<!-- KODE KARTU STATISTIK DITARUH DI SINI -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavidOmar-437&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidOmar-437&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
