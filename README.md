@@ -90,21 +90,6 @@ flowchart LR
 | 🌳 Procedurally generate 3D basketball courts & calisthenics parks | 🏋️‍♂️ Keep a weekly push/pull strength & bodyweight routine |
 | 📊 Manage class finance tracking, ledgers & transaction verification | 🚴‍♂️ Stay consistent with outdoor cycling cross-training |
 
-<br/>
-
-## 📊 System Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NavidOmar-437&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=a855f7&text_color=ffffff" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidOmar-437&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&text_color=ffffff" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=NavidOmar-437&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=ff2d95&currStreakLabel=00f5ff" alt="streak" />
-
-</div>
-
-<br/>
-
 ## 📫 Establish Connection
 
 <div align="center">
