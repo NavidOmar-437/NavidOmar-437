@@ -23,7 +23,7 @@ class Navid:
     def __init__(self):
         self.name       = "Omar Ridhwan Navid"
         self.role       = "Software Developer & IT Student"
-        self.university = "Politeknik Caltex Riau (PCR) 🇮🇩"
+        self.university = "Politeknik Caltex Riau (PCR)"
         self.interests  = ["Software Engineering", "Interactive UI", "Procedural 3D", "AI"]
         self.fuel       = ["Running 🏃‍♂️", "Cycling 🚴‍♂️", "Swimming 🏊‍♂️"]
 
