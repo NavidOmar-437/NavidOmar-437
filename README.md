@@ -90,6 +90,14 @@ flowchart LR
 | 🌳 Procedurally generate 3D basketball courts & calisthenics parks | 🏋️‍♂️ Keep a weekly push/pull strength & bodyweight routine |
 | 📊 Manage class finance tracking, ledgers & transaction verification | 🚴‍♂️ Stay consistent with outdoor cycling cross-training |
 
+## 🏃 Running Track
+
+<div align="center">
+
+<img src="./assets/running-track.svg" alt="Animated runner on a track heading for a sub-2:00 half-marathon" width="800" />
+
+</div>
+
 ## 👾 Contribution Pac-Man
 
 <div align="center">
