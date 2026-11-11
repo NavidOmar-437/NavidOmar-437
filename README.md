@@ -24,7 +24,7 @@ class Navid:
         self.name       = "Omar Ridhwan Navid"
         self.role       = "Software Developer & IT Student"
         self.university = "Politeknik Caltex Riau (PCR)"
-        self.interests  = ["Software Engineering", "Interactive UI", "Procedural 3D", "AI"]
+        self.interests  = ["Software Engineering", "Interactive UI", "Procedural 3D", "Prompt Engineering"]
         self.fuel       = ["Running 🏃‍♂️", "Cycling 🚴‍♂️", "Swimming 🏊‍♂️"]
 
     def mission(self):
